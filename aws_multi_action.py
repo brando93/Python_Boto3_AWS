@@ -2,9 +2,6 @@ import boto3
 import uuid
 from pprint import pprint
 
-#Access key: #AKIAY4ZUXA4AIUPYA7NV
-#Secret key: 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
-
 # BOTO3 Documentation:
 #https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
